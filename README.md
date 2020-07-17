@@ -20,7 +20,7 @@ java -jar build/libs/Java\ Challenge-0.0.1-SNAPSHOT.jar if on the production Int
 
 How to Access web service the End Point : 
 
-http://localhost:18080/accounts/fundtransfer/v1.0/transfer
+http://localhost:8080/v1.0/accounts/fundtransfer
 
 Production ready environment improvements for 
 -----------------------------------------------------
